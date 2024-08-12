@@ -14,6 +14,20 @@
         "required": false
       }
     },
+  "OWNER_NAME":
+    {
+    
+    "desc": "Your Name",
+    "required": false,
+    "value": "𝐊idd"
+  },
+    "NUMERO_OWNER":
+  {
+    
+    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "required":false,
+    "value": "2349066052477,29071078744"
+  },
   "buildpacks": [
               {
                 "url": "heroku/nodejs"
